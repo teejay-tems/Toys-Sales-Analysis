@@ -5,17 +5,17 @@
 This is a SQL project that aims to provide **Maven Toys**, a fictional chain of toy stores in Mexico, with actionable insights into product profitability, seasonal sales trends, stock outs impact, and inventory efficiency.
 
 # Table Of Content
-- [Project Overview]()
-- [Project Scope]()
-- [Business Objective]()
-- [Document Purpose]()
-- [Use Case]()
-- [Skills/Concepts Demonstrated]()
-- [Data Source]()
-- [Data Cleaning and Processing]()
-- [Data Analysis and Insight]()
-- [Recommendation]()
-- [Conclusion]()
+- [Project Overview](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#project-overview)
+- [Project Scope](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#project-scope)
+- [Business Objective](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#business-objective)
+- [Document Purpose](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#document-purpose)
+- [Use Case](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#use-case)
+- [Skills/Concepts Demonstrated](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#skills-concepts-demonstrated)
+- [Data Source](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#data-source)
+- [Data Cleaning and Processing](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#data-cleaning-and-processing)
+- [Data Analysis and Insight](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#data-analysis-and-insight)
+- [Recommendation](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#recommendation)
+- [Conclusion](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#conclusion)
 
 # Project Overview
 The objective of the Maven Toy Sales and Inventory Analysis project is to offer practical insights regarding product profitability, seasonal sales patterns, the impact of stockouts, and inventory efficiency to Maven Toys, a fictitious chain of toy stores in Mexico.
