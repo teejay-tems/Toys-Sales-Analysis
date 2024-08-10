@@ -1,4 +1,4 @@
-# Maven Toys Sales Analysis
+# Toys Sales Analysis- Using SQL
 ![](Toy_Store.png)
 ---
 # Introduction
