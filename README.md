@@ -424,15 +424,14 @@ This is a positive indicator of efficient operations and responsiveness to marke
 # Conclusion
 The detailed analysis of Maven Toys' sales and inventory data yields vital insights for strategic decision-making. Identifying profitable product categories, recognizing seasonal trends, addressing out-of-stock impacts, and optimizing inventory turnover pave the way for proactive responses to market dynamics. In the vibrant Mexican toy retail market, this puts Maven Toys in a strong position for long-term success.
 
-**_Thank You_**😄
-
----
-I am interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
-
 
 # License
 This repository is licensed under the [MIT License]().
 
+---
+I am interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
+
+---
 You can reach me on temirestephany@gmail.com or LinkedIn
 
 
