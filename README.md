@@ -16,7 +16,7 @@ This is a SQL project that aims to provide **Maven Toys**, a fictional chain of 
 - [Data Analysis and Insight](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#data-analysis-and-insight)
 - [Recommendation](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#recommendation)
 - [Conclusion](https://github.com/teejay-tems/Toys-Sales-Analysis/tree/main#conclusion)
-- [License]()
+- [License](https://github.com/teejay-tems/Toys-Sales-Analysis/blob/main/LICENSE)
 
 # Project Overview
 The objective of the Maven Toy Sales and Inventory Analysis project is to offer practical insights regarding product profitability, seasonal sales patterns, the impact of stockouts, and inventory efficiency to Maven Toys, a fictitious chain of toy stores in Mexico.
@@ -426,7 +426,7 @@ The detailed analysis of Maven Toys' sales and inventory data yields vital insig
 
 
 # License
-This repository is licensed under the [MIT License]().
+This repository is licensed under the [MIT License](https://github.com/teejay-tems/Toys-Sales-Analysis/blob/main/LICENSE).
 
 ---
 I am interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
